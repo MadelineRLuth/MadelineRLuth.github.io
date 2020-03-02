@@ -1,6 +1,6 @@
 ## Introduction
 
-# My Repositories
+### My Repositories
 
 1. [Whole Genome Analysis of *Plasmodium falciparum*](https://github.com/MadelineRLuth/p_falciparum_analyses)
 
