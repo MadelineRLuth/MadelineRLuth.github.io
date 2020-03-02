@@ -1,5 +1,9 @@
 ## Introduction
 
+My name is Madeline R. Luth and I am a Biomedical Sciences graduate student in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/) at UCSD.
+
+![profile](https://avatars1.githubusercontent.com/u/50251155?s=460&v=4)
+
 ### My Repositories
 
 1. [Whole Genome Analysis of *Plasmodium falciparum*](https://github.com/MadelineRLuth/p_falciparum_analyses)
