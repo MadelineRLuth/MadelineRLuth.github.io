@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Madeline and I am a [Biomedical Sciences](https://biomedsci.ucsd.edu) graduate student in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/) at UCSD. Check out my Google Scholar profile [here](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work.
+My name is Madeline and I am a [Biomedical Sciences](https://biomedsci.ucsd.edu) graduate student in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/) at UCSD. Check out my Google Scholar profile [here](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work. My chief role as a member of the [Malaria Drug Accelerator (MalDA) Consortium](https://winzeler.ucsd.edu/malda/) is to process sequencing data from drug-resistant parasites. Additionally, I manage the Twitter handles for both the [Winzeler Lab](https://twitter.com/WinzelerLabUCSD) group and [MalDA](https://twitter.com/MalariaTargetID). 
 
 ![profile](https://avatars1.githubusercontent.com/u/50251155?s=460&v=4) 
 
