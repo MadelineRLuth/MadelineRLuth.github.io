@@ -11,6 +11,7 @@ Check out [my Google Scholar profile](https://scholar.google.com/citations?user=
 ## Key Research Areas
 * Drug discovery and development in parasites and other pathogens
 * Analysis of large-scale omics datasets to understand the mechanisms of drug resistance
+* High-throughput phenotypic screening
 
 ## My GitHub Repositories
 Most of my work involves identifying drug targets and drug resistance mechanisms in malaria parasites through the process of *in vitro* evolution and whole genome analysis ([IVIEWGA](https://www.ncbi.nlm.nih.gov/pubmed/29451780#)). Doing so requires building bioinformatics pipelines to analyze genomic data at scale. The following repositories represent my work in pipeline development and their applications in *P. falciparum* (the malaria parasite) as well as side projects in *S. cerevisiae* and *T. gondii*. 
