@@ -26,7 +26,7 @@ Most of my work involves identifying drug targets and drug resistance mechanisms
 5. [Coursework from BGGN213: Foundation of Bioinformatics](https://madelinerluth.github.io/bggn213/)
 
 ## In the News
-As part of the press release for [our 2018 *Science* paper](https://science.sciencemag.org/content/362/6419/eaat9446.abstract), the local San Diego news network ABC10 [ran a feature on our work](https://www.10news.com/news/san-diego-students-helping-to-lead-quest-to-end-malaria) conducting chemical screens against the liver stage of the malaria parasite and their follow-up studies.
+As part of the press release for [our 2018 *Science* paper](https://science.sciencemag.org/content/362/6419/eaat9446.abstract), the local San Diego news network ABC10 [ran a feature on our work](https://www.10news.com/news/san-diego-students-helping-to-lead-quest-to-end-malaria) conducting chemical screens against the liver stage of the malaria parasite and affiliated follow-up studies.
 
 ## Full Curriculum Vitae
 Coming Soon
