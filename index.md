@@ -8,7 +8,7 @@ My graduate work is partially supported by a Ruth L. Kirschstein Institutional N
 
 Previously, I obtained my B.S. in Microbiology from UC Riverside, where I worked as an undergraduate research assistant in the labs of David Crowley and Sharon L. Walker.
 
-Check out my Google Scholar profile [here](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work. 
+Check out [my Google Scholar profile](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work. 
 
 ![profile](https://avatars1.githubusercontent.com/u/50251155?s=460&v=4)
 
