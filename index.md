@@ -2,13 +2,16 @@
 
 My name is Madeline Luth and I am currently a Ph.D. student in the [Biomedical Sciences Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego. I am completing my thesis work in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/) and as a member of the [Malaria Drug Accelerator (MalDA) Consortium](https://winzeler.ucsd.edu/malda/). My chief research roles are to process sequencing data from drug-resistant parasites and develop models of drug resistance generation, and on the side, I manage the Twitter handles for both the [Winzeler Lab](https://twitter.com/WinzelerLabUCSD) and [MalDA](https://twitter.com/MalariaTargetID). My graduate work is partially supported by a Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences ([T32 GM008666](https://grantome.com/grant/NIH/T32-GM008666-16)) as a fellow in the [UCSD Genetics Training Program](http://genetics.ucsd.edu).
 
-**Key skills and research interests: in-depth knowledge of drug discovery and development in parasites and other pathogens; analysis of large-scale omics datasets; and understanding the genomic determinants of drug resistance.**
-
-Previously, I obtained my B.S. in Microbiology from UC Riverside, where I worked as an undergraduate research assistant in the labs of [David Crowley](https://profiles.ucr.edu/app/home/profile/crowley) and [Sharon L. Walker](https://drexel.edu/engineering/about/faculty-staff/W/walker-sharon/).
+Previously, I obtained my B.S. in Microbiology from UC Riverside, where I worked as an undergraduate research assistant in the labs of [David Crowley](https://profiles.ucr.edu/app/home/profile/crowley) and [Sharon L. Walker](https://drexel.edu/engineering/about/faculty-staff/W/walker-sharon/). In 2015, I was awarded the $5,000 [UCR Chancellor's Research Fellowship](https://se.ucr.edu/research/chancellor_fellowship) to complete my [University Honors](https://honors.ucr.edu) thesis titled "Effect of Material Properties on Bacterial Attachment to Thin Film Photocatalytic Titanium Dioxide."
 
 Check out [my Google Scholar profile](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work. 
 
 ![profile](https://avatars1.githubusercontent.com/u/50251155?s=460&v=4)
+
+##Key Skills and Research Areas
+* In-depth knowledge of drug discovery and development in parasites and other pathogens
+* Analysis of large-scale omics datasets
+* Understanding the genomic determinants of drug resistance
 
 ## My GitHub Repositories
 Most of my work involves identifying drug targets and drug resistance mechanisms in malaria parasites through the process of *in vitro* evolution and whole genome analysis ([IVIEWGA](https://www.ncbi.nlm.nih.gov/pubmed/29451780#)). Doing so requires building bioinformatics pipelines to analyze genomic data at scale. The following repositories represent my work in pipeline development and their applications in *P. falciparum* (the malaria parasite) as well as side projects in *S. cerevisiae* and *T. gondii*. 
