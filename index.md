@@ -30,7 +30,8 @@ As part of the press release for [our 2018 *Science* paper](https://science.scie
 
 ![news photo](https://ucsdnews.ucsd.edu/news_uploads/2018_12_06_winzler_researchteam_UCSDHealth.jpg)
 
-From left to right: Matthew Abraham, Ph.D.; Madeline Luth; Sabine Ottilie, Ph.D.; Elizabeth Winzeler, Ph.D. (Image Credit: [UCSD press release](https://ucsdnews.ucsd.edu/pressrelease/half_a_million_tests_and_many_later_new_buzz_about_a_malaria_prevention_drug))
+From left to right: Matthew Abraham, Ph.D.; Madeline Luth; Sabine Ottilie, Ph.D.; Elizabeth Winzeler, Ph.D.
+(Image Credit: [UCSD press release](https://ucsdnews.ucsd.edu/pressrelease/half_a_million_tests_and_many_later_new_buzz_about_a_malaria_prevention_drug))
 
 ## Full Curriculum Vitae
 Coming Soon
