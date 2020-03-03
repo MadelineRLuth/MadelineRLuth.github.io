@@ -21,7 +21,7 @@ Most of my work involves identifying drug targets and drug resistance mechanisms
 
 4. [Omics Pipe and General WGS Pipeline Framework](https://github.com/MadelineRLuth/Omics_Pipe)
 
-5. [Coursework from BGGN213: Foundation of Bioinformatics](https://github.com/MadelineRLuth/bggn213)
+5. [Coursework from BGGN213: Foundation of Bioinformatics](https://madelinerluth.github.io/bggn213/)
 
 ## Curriculum vitae
 Coming Soon
