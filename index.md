@@ -1,12 +1,12 @@
 ## About Me
 
-My name is Madeline and I am currently a Ph.D. student in the [Biomedical Sciences Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego completing my thesis work in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/). As a member of the [Malaria Drug Accelerator (MalDA) Consortium](https://winzeler.ucsd.edu/malda/), my chief roles in the lab are to process sequencing data from drug-resistant parasites and develop models of drug resistance generation. On the side, I manage the Twitter handles for both the [Winzeler Lab](https://twitter.com/WinzelerLabUCSD) and [MalDA](https://twitter.com/MalariaTargetID).
+My name is Madeline Luth and I am currently a Ph.D. student in the [Biomedical Sciences Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego. I am completing my thesis work in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/) and as a member of the [Malaria Drug Accelerator (MalDA) Consortium](https://winzeler.ucsd.edu/malda/). My chief roles in the lab are to process sequencing data from drug-resistant parasites and develop models of drug resistance generation. On the side, I manage the Twitter handles for both the [Winzeler Lab](https://twitter.com/WinzelerLabUCSD) and [MalDA](https://twitter.com/MalariaTargetID).
 
-My graduate work is partially supported by a Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences ([T32 GM008666](https://grantome.com/grant/NIH/T32-GM008666-16)) as a member of the [UCSD Genetics Training Program](http://genetics.ucsd.edu).
+My graduate work is partially supported by a Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences ([T32 GM008666](https://grantome.com/grant/NIH/T32-GM008666-16)) as a fellow in the [UCSD Genetics Training Program](http://genetics.ucsd.edu).
 
-**My main research interests include drug discovery and development in parasites and other infectious diseases; analysis of large-scale omics datasets; and understanding the genomic determinants of drug resistance.**
+**My main research interests include drug discovery and development in parasites and other pathogens; analysis of large-scale omics datasets; and understanding the genomic determinants of drug resistance.**
 
-Previously, I obtained my B.S. in Microbiology from UC Riverside, where I worked as an undergraduate research assistant in the labs of David Crowley and Sharon L. Walker.
+Previously, I obtained my B.S. in Microbiology from UC Riverside, where I worked as an undergraduate research assistant in the labs of [David Crowley](https://profiles.ucr.edu/app/home/profile/crowley) and [Sharon L. Walker](https://drexel.edu/engineering/about/faculty-staff/W/walker-sharon/).
 
 Check out [my Google Scholar profile](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work. 
 
