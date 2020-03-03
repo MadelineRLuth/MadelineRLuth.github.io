@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Madeline and I am currently a PhD student in the [Biomedical Sciences Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego completing my thesis work in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/). I am also a member of the [Malaria Drug Accelerator (MalDA) Consortium](https://winzeler.ucsd.edu/malda/), where my chief role is to process sequencing data from drug-resistant parasites. On the side, I manage the Twitter handles for both the [Winzeler Lab](https://twitter.com/WinzelerLabUCSD) group and [MalDA](https://twitter.com/MalariaTargetID).
+My name is Madeline and I am currently a Ph.D. student in the [Biomedical Sciences Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego completing my thesis work in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/). I am also a member of the [Malaria Drug Accelerator (MalDA) Consortium](https://winzeler.ucsd.edu/malda/), where my chief role is to process sequencing data from drug-resistant parasites. On the side, I manage the Twitter handles for both the [Winzeler Lab](https://twitter.com/WinzelerLabUCSD) group and [MalDA](https://twitter.com/MalariaTargetID).
 
 **My main research interests include drug discovery and development in parasites and other infectious diseases; analysis of large-scale omics datasets; and understanding the genomic determinants of drug resistance.**
 
