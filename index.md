@@ -21,7 +21,7 @@ From left to right: Matthew Abraham, Ph.D.; Madeline Luth; Sabine Ottilie, Ph.D.
 (Image Credit: [UCSD press release](https://ucsdnews.ucsd.edu/pressrelease/half_a_million_tests_and_many_later_new_buzz_about_a_malaria_prevention_drug))
 
 #### The Malaria Drug Accelerator (MalDA) Consortium
-The [Malaria Drug Accelerator (MalDA)]((https://winzeler.ucsd.edu/malda/) Consortium is an innovative target-guided discovery platform and collaboration between academic, non-profit, and pharmaceutical groups with funding from the Bill & Melinda Gates Foundation whose main purpose is to aid in malaria eradication efforts through drug discovery and development. I manage all sequencing and whole genome analysis for the consortium.
+The [Malaria Drug Accelerator (MalDA)](https://winzeler.ucsd.edu/malda/) Consortium is an innovative target-guided discovery platform and collaboration between academic, non-profit, and pharmaceutical groups with funding from the Bill & Melinda Gates Foundation whose main purpose is to aid in malaria eradication efforts through drug discovery and development. I manage all sequencing and whole genome analysis for the consortium.
 
 ![group photo](https://pbs.twimg.com/profile_banners/1198263575577534466/1575651873/600x200)
 
