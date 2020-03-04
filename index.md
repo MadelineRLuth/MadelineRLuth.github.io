@@ -7,7 +7,7 @@ My name is Madeline Luth and I am an early-career biomedical researcher and bioi
 ## Graduate Education and Research
 
 ### Program and Thesis Lab
-I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego. I am completing my thesis work in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/), where my chief research roles are to process sequencing data from drug-resistant parasites and develop models of drug resistance generation.
+I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego. I am completing my thesis work in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/), where my chief research roles are to process sequencing data from drug-resistant malaria parasites and develop models of drug resistance generation.
 
 ![EAW lab logo](http://winzeler.ucsd.edu/wp-content/uploads/2016/09/winzeler-logo-3-001.png)
 
