@@ -20,12 +20,12 @@ In Winter 2018, I was a Teaching Assistant for [Deborah Yelon](https://www-biolo
 * Admissions Committee Member for 2018-2019 BMS Program Recruitment
 * Student Organizer of the 2019 [BMS Program Annual Retreat](https://biomedsci.ucsd.edu/calendar/bms-retreat.html)
 * Student Organizer for the 2018-2019 BMS Student-Invited Speaker Seminar
-* Moderator for the 2019 UCSD Summer Research Conference for Undergraduates
 
 #### Scientific Outreach and Volunteerism
 * Judge at the 2017, 2018, 2019, and 2020 [Greater San Diego Science and Engineering Fair (GSDSEF)](https://www.gsdsef.org)
 * eMentor for Del Lago Academy career advising program for high school students (2017-2020)
-* Career Panelist at Del Lago Academy (2020)
+* Moderator for the 2019 UCSD Summer Research Conference for Undergraduates
+* Career Experience Panelist at Del Lago Academy (2020)
 
 #### Winzeler Lab In the News
 As part of the press release for [our 2018 *Science* paper](https://science.sciencemag.org/content/362/6419/eaat9446.abstract), the local San Diego news network ABC10 [ran a feature on our work](https://www.10news.com/news/san-diego-students-helping-to-lead-quest-to-end-malaria) conducting chemical screens against the liver stage of the malaria parasite and affiliated follow-up studies.
