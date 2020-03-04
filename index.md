@@ -18,10 +18,8 @@ In Winter 2018, I was a Teaching Assistant for [Deborah Yelon](https://www-biolo
 #### Extracurricular Involvement at UCSD
 * Student Organizer for the 2018-2019 [Genetics, Bioinformatics, & Systems Biology Colloquium](http://genomic.weebly.com)
 * Admissions Committee Member for 2018-2019 BMS Program Recruitment
-* Student Organizer of the 2019 [BMS Program Annual Retreat](https://biomedsci.ucsd.edu/calendar/bms-retreat.html)
-** Coordinated keynote speaker [Lior Pachter](https://pachterlab.github.io) from CalTech
-* Student Organizer for the 2018-2019 BMS Student-Invited Speaker Seminar
-** Featuring [Clodagh O'Shea](https://www.salk.edu/scientist/clodagh-oshea/) from Salk Institute
+* Student Organizer of the 2019 [BMS Program Annual Retreat](https://biomedsci.ucsd.edu/calendar/bms-retreat.html), featuring keynote speaker [Lior Pachter](https://pachterlab.github.io) from CalTech
+* Student Organizer for the 2018-2019 BMS Student-Invited Speaker Seminar, featuring [Clodagh O'Shea](https://www.salk.edu/scientist/clodagh-oshea/) from Salk Institute
 
 #### Scientific Outreach and Volunteerism
 * Judge at the 2017, 2018, 2019, and 2020 [Greater San Diego Science and Engineering Fair (GSDSEF)](https://www.gsdsef.org)
