@@ -1,10 +1,10 @@
-## About Me
+# About Me
 
 My name is Madeline Luth and I am an early-career biomedical researcher and bioinformatician. Check out [my Google Scholar profile](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work.
 
 ![profile](https://avatars1.githubusercontent.com/u/50251155?s=460&v=4)
 
-### Graduate Research Experience
+## Graduate Research Experience
 I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego. I am completing my thesis work in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/) and as a member of the [Malaria Drug Accelerator (MalDA) Consortium](https://winzeler.ucsd.edu/malda/). My chief research roles are to process sequencing data from drug-resistant parasites and develop models of drug resistance generation, and on the side, I manage the Twitter handles for both the [Winzeler Lab](https://twitter.com/WinzelerLabUCSD) and [MalDA](https://twitter.com/MalariaTargetID).
 
 #### Funding and Support
@@ -19,7 +19,7 @@ From left to right: Matthew Abraham, Ph.D.; Madeline Luth; Sabine Ottilie, Ph.D.
 
 (Image Credit: [UCSD press release](https://ucsdnews.ucsd.edu/pressrelease/half_a_million_tests_and_many_later_new_buzz_about_a_malaria_prevention_drug))
 
-### Undergraduate Research Experience
+## Undergraduate Research Experience
 Previously, I obtained my B.S. in Microbiology from UC Riverside, where I worked as an undergraduate research assistant in the labs of [David Crowley](https://profiles.ucr.edu/app/home/profile/crowley) and [Sharon L. Walker](https://drexel.edu/engineering/about/faculty-staff/W/walker-sharon/). In 2015, I was awarded the $5,000 [UCR Chancellor's Research Fellowship](https://se.ucr.edu/research/chancellor_fellowship) to complete my [University Honors](https://honors.ucr.edu) thesis titled "Effect of Material Properties on Bacterial Attachment to Thin Film Photocatalytic Titanium Dioxide."
 
 ## Research Areas and Interests
@@ -27,7 +27,7 @@ Previously, I obtained my B.S. in Microbiology from UC Riverside, where I worked
 * Analysis of large-scale omics datasets to understand the mechanisms of drug resistance
 * High-throughput phenotypic screening
 
-## My GitHub Repositories
+# My GitHub Repositories
 Most of my work involves identifying drug targets and drug resistance mechanisms in malaria parasites through the process of *in vitro* evolution and whole genome analysis ([IVIEWGA](https://www.ncbi.nlm.nih.gov/pubmed/29451780#)). Doing so requires building bioinformatics pipelines to analyze genomic data at scale. The following repositories represent my work in pipeline development and their applications in *P. falciparum* (the malaria parasite) as well as side projects in *S. cerevisiae* and *T. gondii*. 
 
 1. [Whole Genome Analysis of *Plasmodium falciparum*](https://github.com/MadelineRLuth/p_falciparum_analyses)
@@ -40,6 +40,6 @@ Most of my work involves identifying drug targets and drug resistance mechanisms
 
 5. [Coursework from BGGN213: Foundation of Bioinformatics](https://madelinerluth.github.io/bggn213/)
 
-## Full Curriculum Vitae
+# Full Curriculum Vitae
 Coming Soon
 
