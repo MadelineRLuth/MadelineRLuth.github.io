@@ -5,6 +5,8 @@ My name is Madeline Luth and I am an early-career biomedical researcher and bioi
 ![profile](https://avatars1.githubusercontent.com/u/50251155?s=460&v=4)
 
 ## Graduate Education and Research
+
+#### Program and Thesis Lab
 I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego. I am completing my thesis work in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/) and as a member of the [Malaria Drug Accelerator (MalDA) Consortium](https://winzeler.ucsd.edu/malda/). My chief research roles are to process sequencing data from drug-resistant parasites and develop models of drug resistance generation, and on the side, I manage the Twitter handles for both the [Winzeler Lab](https://twitter.com/WinzelerLabUCSD) and [MalDA](https://twitter.com/MalariaTargetID).
 
 #### Funding and Support
@@ -13,7 +15,9 @@ My graduate work is partially supported by a Ruth L. Kirschstein Institutional N
 #### Teaching Experience
 In Winter 2018, I was a Teaching Assistant for [Deborah Yelon](https://www-biology.ucsd.edu/research/faculty/dyelon)'s section of BICD100: Genetics (An introduction to the principles of heredity emphasizing diploid organisms). Topics included Mendelian inheritance and deviations from classical Mendelian ratios, pedigree analysis, gene interactions, gene mutation, linkage and gene mapping, reverse genetics, population genetics, and quantitative genetics. I lead 2 discussion sections of 32 students each, managed grading, and organized review sessions for midterm and final exams.
 
-#### In the News
+#### Extracurricular Involvement at UCSD
+
+#### Winzeler Lab In the News
 As part of the press release for [our 2018 *Science* paper](https://science.sciencemag.org/content/362/6419/eaat9446.abstract), the local San Diego news network ABC10 [ran a feature on our work](https://www.10news.com/news/san-diego-students-helping-to-lead-quest-to-end-malaria) conducting chemical screens against the liver stage of the malaria parasite and affiliated follow-up studies.
 
 ![news photo](https://ucsdnews.ucsd.edu/news_uploads/2018_12_06_winzler_researchteam_UCSDHealth.jpg)
