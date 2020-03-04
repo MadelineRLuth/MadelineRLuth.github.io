@@ -26,7 +26,7 @@ From left to right: Matthew Abraham, Ph.D.; Madeline Luth; Sabine Ottilie, Ph.D.
 ![group photo](https://pbs.twimg.com/profile_banners/1198263575577534466/1575651873/600x200)
 
 #### Social Media Management
-On the side, I manage the Twitter handles for both the [Winzeler Lab](https://twitter.com/WinzelerLabUCSD) and [MalDA](https://twitter.com/MalariaTargetID).
+I run the Twitter handles for both the [Winzeler Lab](https://twitter.com/WinzelerLabUCSD) and [MalDA](https://twitter.com/MalariaTargetID).
 
 ### Funding and Support
 My graduate work is partially supported by a Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences ([T32 GM008666](https://grantome.com/grant/NIH/T32-GM008666-16)) as a fellow in the [UCSD Genetics Training Program](http://genetics.ucsd.edu).
