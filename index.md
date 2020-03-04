@@ -6,12 +6,12 @@ My name is Madeline Luth and I am an early-career biomedical researcher and bioi
 
 ## Graduate Education and Research
 
-#### Program and Thesis Lab
+### Program and Thesis Lab
 I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego. I am completing my thesis work in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/), where my chief research roles are to process sequencing data from drug-resistant parasites and develop models of drug resistance generation.
 
 ![EAW lab logo](http://winzeler.ucsd.edu/wp-content/uploads/2016/09/winzeler-logo-3-001.png)
 
-##### The Winzeler Lab in the News
+#### The Winzeler Lab in the News
 As part of the press release for [our 2018 *Science* paper](https://science.sciencemag.org/content/362/6419/eaat9446.abstract), the local San Diego news network ABC10 [ran a feature on our work](https://www.10news.com/news/san-diego-students-helping-to-lead-quest-to-end-malaria) conducting chemical screens against the liver stage of the malaria parasite and affiliated follow-up studies.
 
 ![news photo](https://ucsdnews.ucsd.edu/news_uploads/2018_12_06_winzler_researchteam_UCSDHealth.jpg)
@@ -20,28 +20,27 @@ From left to right: Matthew Abraham, Ph.D.; Madeline Luth; Sabine Ottilie, Ph.D.
 
 (Image Credit: [UCSD press release](https://ucsdnews.ucsd.edu/pressrelease/half_a_million_tests_and_many_later_new_buzz_about_a_malaria_prevention_drug))
 
-##### The Malaria Drug Accelerator (MalDA) Consortium
+#### The Malaria Drug Accelerator (MalDA) Consortium
 The [Malaria Drug Accelerator (MalDA)]((https://winzeler.ucsd.edu/malda/) Consortium is an innovative target-guided discovery platform and collaboration between academic, non-profit, and pharmaceutical groups with funding from the Bill & Melinda Gates Foundation whose main purpose is to aid in malaria eradication efforts through drug discovery and development. I manage all sequencing and whole genome analysis for the consortium.
 
 ![group photo](https://pbs.twimg.com/profile_banners/1198263575577534466/1575651873/600x200)
-![logo](https://pbs.twimg.com/profile_images/1202676388668440576/vS0-2sx8_400x400.jpg)
 
-##### Social Media Management
+#### Social Media Management
 On the side, I manage the Twitter handles for both the [Winzeler Lab](https://twitter.com/WinzelerLabUCSD) and [MalDA](https://twitter.com/MalariaTargetID).
 
-#### Funding and Support
+### Funding and Support
 My graduate work is partially supported by a Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences ([T32 GM008666](https://grantome.com/grant/NIH/T32-GM008666-16)) as a fellow in the [UCSD Genetics Training Program](http://genetics.ucsd.edu).
 
-#### Teaching Experience
+### Teaching Experience
 In Winter 2018, I was a Teaching Assistant for [Deborah Yelon](https://www-biology.ucsd.edu/research/faculty/dyelon)'s section of BICD100 (Genetics: an introduction to the principles of heredity emphasizing diploid organisms). Topics included Mendelian inheritance and deviations from classical Mendelian ratios, pedigree analysis, gene interactions, gene mutation, linkage and gene mapping, reverse genetics, population genetics, and quantitative genetics. I lead 2 discussion sections of 32 students each, managed grading, and organized review sessions for midterm and final exams.
 
-#### Extracurricular Involvement at UCSD
+### Extracurricular Involvement at UCSD
 * Student Organizer for the 2018-2019 [Genetics, Bioinformatics, & Systems Biology Colloquium](http://genomic.weebly.com)
 * Admissions Committee Member for 2018-2019 BMS Program Recruitment
 * Student Organizer of the 2019 [BMS Program Annual Retreat](https://biomedsci.ucsd.edu/calendar/bms-retreat.html), featuring keynote speaker [Lior Pachter](https://pachterlab.github.io) from CalTech
 * Student Organizer for the 2018-2019 BMS Student-Invited Speaker Seminar, featuring [Clodagh O'Shea](https://www.salk.edu/scientist/clodagh-oshea/) from Salk Institute
 
-#### Scientific Outreach and Volunteerism
+### Scientific Outreach and Volunteerism
 * Judge at the 2017, 2018, 2019, and 2020 [Greater San Diego Science and Engineering Fair (GSDSEF)](https://www.gsdsef.org)
 * eMentor for Del Lago Academy career advising program for high school students (2017-2020)
 * Moderator for the 2019 UCSD Summer Research Conference for Undergraduates
@@ -50,7 +49,7 @@ In Winter 2018, I was a Teaching Assistant for [Deborah Yelon](https://www-biolo
 ## Undergraduate Education and Research
 Previously, I obtained my B.S. in Microbiology from UC Riverside, where I worked as an undergraduate research assistant in the labs of [David Crowley](https://profiles.ucr.edu/app/home/profile/crowley) and [Sharon L. Walker](https://drexel.edu/engineering/about/faculty-staff/W/walker-sharon/). In 2015, I was awarded the $5,000 [UCR Chancellor's Research Fellowship](https://se.ucr.edu/research/chancellor_fellowship) to complete my [University Honors](https://honors.ucr.edu) thesis titled "Effect of Material Properties on Bacterial Attachment to Thin Film Photocatalytic Titanium Dioxide."
 
-## Research Areas and Interests
+## Current Research Areas and Interests
 * Drug discovery and development in parasites and other pathogens
 * Analysis of large-scale omics datasets to understand the mechanisms of drug resistance
 * High-throughput phenotypic screening
