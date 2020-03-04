@@ -13,9 +13,19 @@ I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Progra
 My graduate work is partially supported by a Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences ([T32 GM008666](https://grantome.com/grant/NIH/T32-GM008666-16)) as a fellow in the [UCSD Genetics Training Program](http://genetics.ucsd.edu).
 
 #### Teaching Experience
-In Winter 2018, I was a Teaching Assistant for [Deborah Yelon](https://www-biology.ucsd.edu/research/faculty/dyelon)'s section of BICD100: Genetics (An introduction to the principles of heredity emphasizing diploid organisms). Topics included Mendelian inheritance and deviations from classical Mendelian ratios, pedigree analysis, gene interactions, gene mutation, linkage and gene mapping, reverse genetics, population genetics, and quantitative genetics. I lead 2 discussion sections of 32 students each, managed grading, and organized review sessions for midterm and final exams.
+In Winter 2018, I was a Teaching Assistant for [Deborah Yelon](https://www-biology.ucsd.edu/research/faculty/dyelon)'s section of BICD100: Genetics (an introduction to the principles of heredity emphasizing diploid organisms). Topics included Mendelian inheritance and deviations from classical Mendelian ratios, pedigree analysis, gene interactions, gene mutation, linkage and gene mapping, reverse genetics, population genetics, and quantitative genetics. I lead 2 discussion sections of 32 students each, managed grading, and organized review sessions for midterm and final exams.
 
 #### Extracurricular Involvement at UCSD
+* Student Organizer for the 2018-2019 [Genetics, Bioinformatics, & Systems Biology Colloquium](http://genomic.weebly.com)
+* Admissions Committee Member for 2018-2019 BMS Program Recruitment
+* Student Organizer of the 2019 [BMS Program Annual Retreat](https://biomedsci.ucsd.edu/calendar/bms-retreat.html)
+* Student Organizer for the 2018-2019 BMS Student-Invited Speaker Seminar
+* Moderator for the 2019 UCSD Summer Research Conference for Undergraduates
+
+#### Scientific Outreach and Volunteerism
+* Judge at the 2017, 2018, 2019, and 2020 [Greater San Diego Science and Engineering Fair (GSDSEF)](https://www.gsdsef.org)
+* eMentor for Del Lago Academy career advising program for high school students (2017-2020)
+* Career Panelist at Del Lago Academy (2020)
 
 #### Winzeler Lab In the News
 As part of the press release for [our 2018 *Science* paper](https://science.sciencemag.org/content/362/6419/eaat9446.abstract), the local San Diego news network ABC10 [ran a feature on our work](https://www.10news.com/news/san-diego-students-helping-to-lead-quest-to-end-malaria) conducting chemical screens against the liver stage of the malaria parasite and affiliated follow-up studies.
