@@ -54,7 +54,7 @@ Previously, I obtained my B.S. in Microbiology from UC Riverside, where I worked
 * eMentor for Del Lago Academy career advising program for high school students (2017-2020)
 * Moderator for the 2019 UCSD Summer Research Conference for Undergraduates
 * Career Experience Panelist at Del Lago Academy (2020)
-* Member of UCR [Delta Sify](http://deltasify.weebly.com) (Change in Scientific Importance for Youth) Club
+* Member of UCR [Delta Sify](http://deltasify.weebly.com) (Change in Scientific Importance for Youth) Club (2014-2016)
 
 
 # My GitHub Repositories
