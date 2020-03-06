@@ -1,4 +1,4 @@
-# About Me
+# Professional Profile
 
 My name is Madeline Luth and I am an early-career biomedical researcher and bioinformatician. Check out [my Google Scholar profile](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work.
 
@@ -6,10 +6,16 @@ My name is Madeline Luth and I am an early-career biomedical researcher and bioi
 
 ## Graduate Education and Research
 
-### Program and Thesis Lab
-I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego. I am completing my thesis work in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/), where my chief research roles are to process sequencing data from drug-resistant malaria parasites and develop models of drug resistance generation.
+### UCSD BMS Program and Thesis Lab
+I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego, where I am completing my thesis work in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/). The Winzeler Lab's primary research focus is on identifying and developing chemotherapeutics and chemoprevention strategies for malaria, but there are a variety of projects exploring additional infectious diseases as well as cancer.
 
 ![EAW lab logo](http://winzeler.ucsd.edu/wp-content/uploads/2016/09/winzeler-logo-3-001.png)
+
+### My Current Research Areas and Interests in the Winzeler Lab
+* Drug discovery and development in parasites and other pathogens
+* Experimental evolution models of drug resistance generation
+* Analysis of large-scale omics datasets to understand the mechanisms of drug resistance
+* High-throughput phenotypic screening
 
 #### The Winzeler Lab in the News
 As part of the press release for [our 2018 *Science* paper](https://science.sciencemag.org/content/362/6419/eaat9446.abstract), the local San Diego news network ABC10 [ran a feature on our work](https://www.10news.com/news/san-diego-students-helping-to-lead-quest-to-end-malaria) conducting chemical screens against the liver stage of the malaria parasite and affiliated follow-up studies.
@@ -21,7 +27,7 @@ From left to right: Matthew Abraham, Ph.D.; Madeline Luth; Sabine Ottilie, Ph.D.
 (Image Credit: [UCSD press release](https://ucsdnews.ucsd.edu/pressrelease/half_a_million_tests_and_many_later_new_buzz_about_a_malaria_prevention_drug))
 
 #### The Malaria Drug Accelerator (MalDA) Consortium
-[MalDA](https://winzeler.ucsd.edu/malda/) is an innovative target-guided discovery platform and collaboration between academic, non-profit, and pharmaceutical groups with funding from the Bill & Melinda Gates Foundation whose main purpose is to aid in malaria eradication efforts through drug discovery and development. I manage all sequencing and whole genome analysis for the consortium.
+[MalDA](https://winzeler.ucsd.edu/malda/) is an innovative target-guided discovery platform and collaboration between academic, non-profit, and pharmaceutical groups funded by the Bill & Melinda Gates Foundation and centered at UCSD. I manage all sequencing and whole genome analysis for the consortium, participating in the Target Identification and Validation Focus Group.
 
 ![group photo](https://pbs.twimg.com/profile_banners/1198263575577534466/1575651873/600x200)
 
@@ -48,11 +54,6 @@ In Winter 2018, I was a Teaching Assistant for [Deborah Yelon](https://www-biolo
 
 ## Undergraduate Education and Research
 Previously, I obtained my B.S. in Microbiology from UC Riverside, where I worked as an undergraduate research assistant in the labs of [David Crowley](https://profiles.ucr.edu/app/home/profile/crowley) and [Sharon L. Walker](https://drexel.edu/engineering/about/faculty-staff/W/walker-sharon/). In 2015, I was awarded the $5,000 [UCR Chancellor's Research Fellowship](https://se.ucr.edu/research/chancellor_fellowship) to complete my [University Honors](https://honors.ucr.edu) thesis titled "Effect of Material Properties on Bacterial Attachment to Thin Film Photocatalytic Titanium Dioxide."
-
-## Current Research Areas and Interests
-* Drug discovery and development in parasites and other pathogens
-* Analysis of large-scale omics datasets to understand the mechanisms of drug resistance
-* High-throughput phenotypic screening
 
 # My GitHub Repositories
 Most of my work involves identifying drug targets and drug resistance mechanisms in malaria parasites through the process of *in vitro* evolution and whole genome analysis ([IVIEWGA](https://www.ncbi.nlm.nih.gov/pubmed/29451780#)). Doing so requires building bioinformatics pipelines to analyze genomic data at scale. The following repositories represent my work in pipeline development and their applications in *P. falciparum* (the malaria parasite) as well as side projects in *S. cerevisiae* and *T. gondii*. 
