@@ -1,8 +1,10 @@
 # About Me
 
-My name is Madeline Luth and I am an early-career biomedical researcher and bioinformatician located in San Diego, California. Combining a background in microbiology with a more recent dive into the computational world, I have experience at the bench and at the command line. Check out [my Google Scholar profile](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work, and take a look at a summary of my personal and professional experiences through this Git portfolio. 
+My name is Madeline Luth and I am an early-career biomedical researcher and bioinformatician located in San Diego, California. Combining a background in microbiology with a more recent dive into the computational world, I have experience at both the bench and the command line.
 
 ![profile](https://avatars1.githubusercontent.com/u/50251155?s=460&v=4)
+
+Check out [my Google Scholar profile](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work, or take a look at a summary of my personal and professional experiences through this Git-hosted portfolio.
 
 ## Graduate Education and Research
 
