@@ -46,6 +46,7 @@ From left to right: Matthew Abraham, Ph.D.; Madeline Luth; Sabine Ottilie, Ph.D.
 [MalDA](https://winzeler.ucsd.edu/malda/) is an innovative target-guided discovery platform and collaboration between academic, non-profit, and pharmaceutical groups funded by the Bill & Melinda Gates Foundation and centered at UCSD. I manage all sequencing and whole genome analysis for the consortium and participate in the Target Identification and Validation Focus Group.
 
 ![group photo](https://pbs.twimg.com/profile_banners/1198263575577534466/1575651873/600x200)
+This group photo was taken at our annual Palm Springs meeting at Omni Rancho Las Palmas in 2019.
 
 #### Social Media Management
 I run the Twitter handles for both the [Winzeler Lab](https://twitter.com/WinzelerLabUCSD) and [MalDA](https://twitter.com/MalariaTargetID).
