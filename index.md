@@ -1,5 +1,7 @@
 # My GitHub Repositories
-Most of my work involves identifying drug targets and drug resistance mechanisms in malaria parasites through the process of *in vitro* evolution and whole genome analysis ([IVIEWGA](https://www.ncbi.nlm.nih.gov/pubmed/29451780#)). Doing so requires building bioinformatics pipelines to analyze genomic data at scale. The following repositories represent my work in pipeline development and their applications in *P. falciparum* (the malaria parasite) as well as side projects in *S. cerevisiae* and *T. gondii*. 
+Most of my work involves identifying drug targets and drug resistance mechanisms in malaria parasites through the process of *in vitro* evolution and whole genome analysis ([IVIEWGA](https://www.ncbi.nlm.nih.gov/pubmed/29451780#)). Doing so requires building bioinformatics pipelines to analyze genomic data at scale. The following repositories represent my work in pipeline development and their applications in *P. falciparum* (the malaria parasite) as well as side projects in *S. cerevisiae* and *T. gondii*.
+
+![circos](https://github.com/MadelineRLuth/yeast_analyses/blob/master/Circos_plot.png)
 
 1. [Whole Genome Analysis of *Plasmodium falciparum*](https://github.com/MadelineRLuth/p_falciparum_analyses)
 
@@ -37,7 +39,7 @@ I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Progra
 
 #### My Current Research Areas and Interests in the Winzeler Lab
 * Drug discovery and development in parasites and other pathogens
-* Experimental evolution models of drug resistance generation
+* Using experimental evolution to model drug resistance acquisition
 * Analysis of large-scale omics datasets to understand the mechanisms of drug resistance
 * High-throughput phenotypic screening
 
