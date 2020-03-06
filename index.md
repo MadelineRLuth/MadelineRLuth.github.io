@@ -1,12 +1,12 @@
-# Professional Profile
+# About Me
 
-My name is Madeline Luth and I am an early-career biomedical researcher and bioinformatician located in San Diego, California. Check out [my Google Scholar profile](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work.
+My name is Madeline Luth and I am an early-career biomedical researcher and bioinformatician located in San Diego, California. Combining a background in microbiology with a more recent dive into the computational world, I have experience at the bench and at the command line. Check out [my Google Scholar profile](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work, and take a look at a summary of my personal and professional experiences through this Git portfolio. 
 
 ![profile](https://avatars1.githubusercontent.com/u/50251155?s=460&v=4)
 
 ## Graduate Education and Research
 
-### UCSD BMS Program and Thesis Lab
+### UCSD BMS Program and Dissertation Lab
 I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego, where I am completing my thesis work in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/). Our primary research focus in the Winzeler Lab is identifying and developing chemotherapeutics and chemoprevention strategies for malaria, but we also develop and collaborate on projects exploring other infectious diseases and cancer.
 
 ![EAW lab logo](http://winzeler.ucsd.edu/wp-content/uploads/2016/09/winzeler-logo-3-001.png)
@@ -44,7 +44,7 @@ In Winter 2018, I was a Teaching Assistant for [Deborah Yelon](https://www-biolo
 * Student Organizer for the 2018-2019 [Genetics, Bioinformatics, & Systems Biology Colloquium](http://genomic.weebly.com)
 * Admissions Committee Member for 2018-2019 BMS Program Recruitment
 * Student Organizer of the 2019 [BMS Program Annual Retreat](https://biomedsci.ucsd.edu/calendar/bms-retreat.html), featuring keynote speaker [Lior Pachter](https://pachterlab.github.io) from CalTech
-* Student Organizer for the 2018-2019 BMS Student-Invited Speaker Seminar, featuring [Clodagh O'Shea](https://www.salk.edu/scientist/clodagh-oshea/) from Salk Institute
+* Student Organizer of the 2018-2019 BMS Student-Invited Speaker Seminar, featuring [Clodagh O'Shea](https://www.salk.edu/scientist/clodagh-oshea/) from Salk Institute
 
 ## Undergraduate Education and Research
 Previously, I obtained my B.S. in Microbiology from UC Riverside, where I worked as an undergraduate research assistant in the labs of [David Crowley](https://profiles.ucr.edu/app/home/profile/crowley) and [Sharon L. Walker](https://drexel.edu/engineering/about/faculty-staff/W/walker-sharon/). In 2015, I was awarded the $5,000 [UCR Chancellor's Research Fellowship](https://se.ucr.edu/research/chancellor_fellowship) to complete my [University Honors](https://honors.ucr.edu) thesis titled "Effect of Material Properties on Bacterial Attachment to Thin Film Photocatalytic Titanium Dioxide."
