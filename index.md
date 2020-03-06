@@ -1,3 +1,16 @@
+# My GitHub Repositories
+Most of my work involves identifying drug targets and drug resistance mechanisms in malaria parasites through the process of *in vitro* evolution and whole genome analysis ([IVIEWGA](https://www.ncbi.nlm.nih.gov/pubmed/29451780#)). Doing so requires building bioinformatics pipelines to analyze genomic data at scale. The following repositories represent my work in pipeline development and their applications in *P. falciparum* (the malaria parasite) as well as side projects in *S. cerevisiae* and *T. gondii*. 
+
+1. [Whole Genome Analysis of *Plasmodium falciparum*](https://github.com/MadelineRLuth/p_falciparum_analyses)
+
+2. [Whole Genome Analysis of *Saccharomyces cerevisiae*](https://github.com/MadelineRLuth/yeast_analyses)
+
+3. Whole Genome Analysis of *Toxoplasma gondii* (Coming Soon!)
+
+4. [Omics Pipe and General WGS Pipeline Framework](https://github.com/MadelineRLuth/Omics_Pipe)
+
+5. [Coursework from BGGN213: Foundation of Bioinformatics](https://madelinerluth.github.io/bggn213/)
+
 # About Me
 
 ## Professional Profile
@@ -58,20 +71,6 @@ Previously, I obtained my B.S. in Microbiology from UC Riverside, where I worked
 * Moderator for the 2019 UCSD Summer Research Conference for Undergraduates
 * Career Experience Panelist at Del Lago Academy (2020)
 * Member of UCR [Delta Sify](http://deltasify.weebly.com) (Change in Scientific Importance for Youth) Club (2014-2016)
-
-
-# My GitHub Repositories
-Most of my work involves identifying drug targets and drug resistance mechanisms in malaria parasites through the process of *in vitro* evolution and whole genome analysis ([IVIEWGA](https://www.ncbi.nlm.nih.gov/pubmed/29451780#)). Doing so requires building bioinformatics pipelines to analyze genomic data at scale. The following repositories represent my work in pipeline development and their applications in *P. falciparum* (the malaria parasite) as well as side projects in *S. cerevisiae* and *T. gondii*. 
-
-1. [Whole Genome Analysis of *Plasmodium falciparum*](https://github.com/MadelineRLuth/p_falciparum_analyses)
-
-2. [Whole Genome Analysis of *Saccharomyces cerevisiae*](https://github.com/MadelineRLuth/yeast_analyses)
-
-3. Whole Genome Analysis of *Toxoplasma gondii* (Coming Soon!)
-
-4. [Omics Pipe and General WGS Pipeline Framework](https://github.com/MadelineRLuth/Omics_Pipe)
-
-5. [Coursework from BGGN213: Foundation of Bioinformatics](https://madelinerluth.github.io/bggn213/)
 
 # Full Curriculum Vitae
 Coming Soon
