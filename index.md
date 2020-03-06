@@ -1,8 +1,6 @@
 # My GitHub Repositories
 Most of my work involves identifying drug targets and drug resistance mechanisms in malaria parasites through the process of *in vitro* evolution and whole genome analysis ([IVIEWGA](https://www.ncbi.nlm.nih.gov/pubmed/29451780#)). Doing so requires building bioinformatics pipelines to analyze genomic data at scale. The following repositories represent my work in pipeline development and their applications in *P. falciparum* (the malaria parasite) as well as side projects in *S. cerevisiae* and *T. gondii*.
 
-![circos](https://github.com/MadelineRLuth/yeast_analyses/blob/master/Circos_plot.png)
-
 1. [Whole Genome Analysis of *Plasmodium falciparum*](https://github.com/MadelineRLuth/p_falciparum_analyses)
 
 2. [Whole Genome Analysis of *Saccharomyces cerevisiae*](https://github.com/MadelineRLuth/yeast_analyses)
@@ -15,7 +13,9 @@ Most of my work involves identifying drug targets and drug resistance mechanisms
 
 6. [Coursework from BGGN213: Foundation of Bioinformatics](https://madelinerluth.github.io/bggn213/)
 
-
+An example of the *P. falciparum* "Resistome"
+![circos](https://github.com/MadelineRLuth/p_falciparum_analyses/raw/master/Pf_circos_plot.png)
+![plot](https://github.com/MadelineRLuth/p_falciparum_analyses/raw/master/colored_final_counts_plot_pf.png)
 
 
 
