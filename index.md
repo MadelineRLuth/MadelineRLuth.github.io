@@ -11,7 +11,7 @@ I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Progra
 
 ![EAW lab logo](http://winzeler.ucsd.edu/wp-content/uploads/2016/09/winzeler-logo-3-001.png)
 
-### My Current Research Areas and Interests in the Winzeler Lab
+#### My Current Research Areas and Interests in the Winzeler Lab
 * Drug discovery and development in parasites and other pathogens
 * Experimental evolution models of drug resistance generation
 * Analysis of large-scale omics datasets to understand the mechanisms of drug resistance
