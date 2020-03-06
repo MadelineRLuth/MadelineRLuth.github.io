@@ -9,7 +9,15 @@ Most of my work involves identifying drug targets and drug resistance mechanisms
 
 4. [Omics Pipe and General WGS Pipeline Framework](https://github.com/MadelineRLuth/Omics_Pipe)
 
-5. [Coursework from BGGN213: Foundation of Bioinformatics](https://madelinerluth.github.io/bggn213/)
+5. Copy Number Variant Detection Pipeline (Coming Soon!)
+
+6. [Coursework from BGGN213: Foundation of Bioinformatics](https://madelinerluth.github.io/bggn213/)
+
+
+
+
+
+
 
 # About Me
 
@@ -50,11 +58,11 @@ From left to right: Matthew Abraham, Ph.D.; Madeline Luth; Sabine Ottilie, Ph.D.
 #### Social Media Management
 I run the Twitter handles for both the [Winzeler Lab](https://twitter.com/WinzelerLabUCSD) and [MalDA](https://twitter.com/MalariaTargetID).
 
-#### Funding and Support
+#### Funding
 My graduate work is partially supported by a Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences ([T32 GM008666](https://grantome.com/grant/NIH/T32-GM008666-16)) as a fellow in the [UCSD Genetics Training Program](http://genetics.ucsd.edu).
 
 #### Teaching Experience
-In Winter 2018, I was a Teaching Assistant for [Deborah Yelon](https://www-biology.ucsd.edu/research/faculty/dyelon)'s section of BICD100, an introduction to genetics. I lead 2 discussion sections of 32 students each, managed grading, and organized review sessions for midterm and final exams.
+In Winter 2018, I was a Teaching Assistant for [Deborah Yelon](https://www-biology.ucsd.edu/research/faculty/dyelon)'s section of BICD100, an introduction to genetics. I lead 2 weekly discussion sections focused heavily on problem-solving, managed grading, and organized review sessions for midterm and final exams.
 
 #### Extracurricular Involvement at UCSD
 * Student Organizer for the 2018-2019 [Genetics, Bioinformatics, & Systems Biology Colloquium](http://genomic.weebly.com)
