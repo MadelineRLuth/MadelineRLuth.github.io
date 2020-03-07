@@ -20,11 +20,10 @@ Most of my work involves identifying drug targets and resistance mechanisms in m
 # About Me
 
 ## Professional Profile
-My name is Madeline Luth and I am an early-career biomedical researcher and bioinformatician located in San Diego, California. Combining a background in microbiology with a more recent dive into the computational world, I have experience at both the bench and the command line.
+My name is Madeline Luth and I am an early-career biomedical researcher and bioinformatician located in San Diego, California. Combining a background in microbiology with a more recent dive into the computational world, I have experience at both the bench and the command line. Check out [my Google Scholar profile](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work, or take a look at a summary of my professional experiences through this Git-hosted portfolio.
 
 ![profile](https://avatars1.githubusercontent.com/u/50251155?s=460&v=4)
 
-Check out [my Google Scholar profile](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work, or take a look at a summary of my professional experiences through this Git-hosted portfolio.
 
 ## Graduate Education and Research
 
