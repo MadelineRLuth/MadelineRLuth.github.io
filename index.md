@@ -29,7 +29,7 @@ Check out [my Google Scholar profile](https://scholar.google.com/citations?user=
 ## Graduate Education and Research
 
 ### UCSD BMS Program and Dissertation Lab
-I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego, where I am completing my thesis work in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/). Our primary research focus in the Winzeler Lab is identifying and developing chemotherapeutics and chemoprevention strategies for malaria, but we also develop and collaborate on projects exploring other infectious diseases and cancer.
+I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego and am completing my dissertation in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/). Our primary research focus in the Winzeler Lab is identifying and developing chemotherapeutics and chemoprevention strategies for malaria, but we also develop and collaborate on projects exploring other infectious diseases and cancer.
 
 ![EAW lab logo](http://winzeler.ucsd.edu/wp-content/uploads/2016/09/winzeler-logo-3-001.png)
 
