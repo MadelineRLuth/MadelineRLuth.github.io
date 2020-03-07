@@ -17,7 +17,7 @@ Most of my work involves identifying drug targets and drug resistance mechanisms
 
 **An example of the *P. falciparum* "Resistome"**
 
-![combined](https://github.com/MadelineRLuth/MadelineRLuth.github.io/blob/master/Resistome_pf.png)
+![combined](https://github.com/MadelineRLuth/MadelineRLuth.github.io/blob/master/circos_mutations_pf.png)
 
 
 
