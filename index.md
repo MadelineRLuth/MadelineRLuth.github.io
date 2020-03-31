@@ -74,7 +74,6 @@ I obtained my B.S. in Microbiology from UC Riverside in 2016. As an undergraduat
 * Judge at the 2017, 2018, 2019, and 2020 [Greater San Diego Science and Engineering Fair (GSDSEF)](https://www.gsdsef.org)
 * eMentor for Del Lago Academy career advising program for high school students (2017-2020)
 * Moderator for the 2019 UCSD Summer Research Conference for Undergraduates
-* Career Experience Panelist at Del Lago Academy (2020)
 * Member of UCR [Delta Sify](http://deltasify.weebly.com) (Change in Scientific Importance for Youth) Club (2014-2016)
 
 # Full Curriculum Vitae
