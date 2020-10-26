@@ -80,6 +80,9 @@ I obtained my B.S. in Microbiology from UC Riverside in 2016. As an undergraduat
 ## Consulting Experience
 In Fall 2020, I joined the San Diego Chapter of [Seed Consulting Group](https://seedcg.org) as a consultant. Seed is a 501(c)3 nonprofit organization that provides pro-bono consulting to influential organizations pioneering a healthier and more environmentally sustainable California.
 
+![SeedCG](https://seedcg.org/wp-content/uploads/2020/08/Final_Logo_V2-6.png)
+
+
 # Full Curriculum Vitae
 Coming Soon
 
