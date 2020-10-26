@@ -71,10 +71,14 @@ In Winter 2018, I was a Teaching Assistant for [Deborah Yelon](https://www-biolo
 I obtained my B.S. in Microbiology from UC Riverside in 2016. As an undergraduate research assistant in the lab of [David Crowley](https://profiles.ucr.edu/app/home/profile/crowley), I studied how properties of biochar influence survival and propagation of plant-growth-promoting rhizobacteria and potential applications to agriculture. Following this work, I joined the lab of [Sharon L. Walker](https://drexel.edu/engineering/about/faculty-staff/W/walker-sharon/), where I investigated the attachment and detachment kinetics of *E. coli O157:H7* on leafy green vegetables, commonly a source of foodborne illness. In 2015, I was awarded the $5,000 [UCR Chancellor's Research Fellowship](https://se.ucr.edu/research/chancellor_fellowship) to complete my [University Honors](https://honors.ucr.edu) thesis titled "Effect of Material Properties on Bacterial Attachment to Thin Film Photocatalytic Titanium Dioxide" under the mentorship of Dr. Walker.
 
 ## Scientific Outreach and Volunteerism
+* Graduate Application Mentorship Program (GradAMP) Mentor for the Fall 2020 application cycle
 * Judge at the 2017, 2018, 2019, and 2020 [Greater San Diego Science and Engineering Fair (GSDSEF)](https://www.gsdsef.org)
 * eMentor for Del Lago Academy career advising program for high school students (2017-2020)
 * Moderator for the 2019 UCSD Summer Research Conference for Undergraduates
 * Member of UCR [Delta Sify](http://deltasify.weebly.com) (Change in Scientific Importance for Youth) Club (2014-2016)
+
+## Consulting Experience
+In Fall 2020, I joined the San Diego Chapter of [Seed Consulting Group](https://seedcg.org) as a consultant. Seed is a 501(c)3 nonprofit organization that provides pro-bono consulting to influential organizations pioneering a healthier and more environmentally sustainable California.
 
 # Full Curriculum Vitae
 Coming Soon
