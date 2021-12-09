@@ -39,7 +39,7 @@ I am currently a Ph.D. candidate in the [Biomedical Sciences (BMS) Graduate Prog
 * High-throughput phenotypic screening
 
 #### The Malaria Drug Accelerator (MalDA) Consortium
-[MalDA](https://winzeler.ucsd.edu/malda/) is a target-guided discovery platform and collaboration between academic, non-profit, and pharmaceutical groups funded by the [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org), centered right here at UCSD. I manage all sequencing and whole genome analysis for the consortium and participate in the Target Identification and Validation Focus Group. Below is our MalDA group photo which was taken at our annual all-member Palm Springs meeting at Omni Rancho Las Palmas in 2019.
+[MalDA](https://winzeler.ucsd.edu/malda/) is a target-guided discovery platform and collaboration between academic, non-profit, and pharmaceutical groups funded by the [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org), centered right here at UCSD. I manage all sequencing and whole genome analysis for the consortium and participate in the Target Identification and Validation Focus Group.
 
 ![group photo](https://pbs.twimg.com/profile_banners/1198263575577534466/1575651873/600x200)
 
