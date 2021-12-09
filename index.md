@@ -70,7 +70,7 @@ I obtained my B.S. in Microbiology from UC Riverside in 2016. As an undergraduat
 * Member of UCR [Delta Sify](http://deltasify.weebly.com) (Change in Scientific Importance for Youth) Club (2014-2016)
 
 ## Consulting Experience
-In Fall 2020, I joined the San Diego Chapter of [Seed Consulting Group](https://seedcg.org) as a consultant. Seed is a 501(c)3 nonprofit organization that provides pro-bono consulting to influential organizations pioneering a healthier and more environmentally sustainable California. In Spring 2021, I participated in a second project cycle as a Project Manager with a team of 5 consultants. As of Winter 2021, I function as a Co-VP of Strategy & Operations for the San Diego Chapter. 
+In Fall 2020, I joined the San Diego Chapter of [Seed Consulting Group](https://seedcg.org) as a consultant. Seed is a 501(c)3 nonprofit organization that provides pro-bono consulting to influential organizations pioneering a healthier and more environmentally sustainable California. In Spring 2021, I participated in a second project cycle as a Project Manager with a team of 5 consultants. In Winter 2021, I accepted a position on the San Diego Chapter Leadership Team as a Co-VP of Strategy & Operations.
 
 ![SeedCG](https://seedcg.org/wp-content/uploads/2020/08/Final_Logo_V2-6.png)
 
