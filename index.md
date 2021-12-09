@@ -20,7 +20,7 @@ Most of my work involves identifying drug targets and resistance mechanisms in m
 # About Me
 
 ## Professional Profile
-My name is Madeline Luth and I am an early-career biomedical researcher and bioinformatician located in San Diego, California. Combining a background in microbiology with a more recent dive into the computational world, I have experience at both the bench and the command line. Check out [my Google Scholar profile](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work, or take a look at a summary of my professional experiences through this Git-hosted portfolio.
+My name is Madeline Luth and I am an early-career biomedical researcher and bioinformatician located in San Diego, California. Combining a background in microbiology with a more recent dive into the computational world, I have experience at both the bench and the command line. Check out [my Google Scholar profile](https://scholar.google.com/citations?user=ZwSmvToAAAAJ&hl=en) for a full list of publications and other scholarly work.
 
 ![profile](https://avatars1.githubusercontent.com/u/50251155?s=460&v=4)
 
@@ -37,15 +37,6 @@ I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Progra
 * Using experimental evolution to model drug resistance acquisition
 * Analysis of large-scale omics datasets to understand the mechanisms of drug resistance
 * High-throughput phenotypic screening
-
-#### The Winzeler Lab in the News
-As part of the press release for [our 2018 *Science* paper](https://science.sciencemag.org/content/362/6419/eaat9446.abstract), the local San Diego news network ABC10 [ran a feature on our work](https://www.10news.com/news/san-diego-students-helping-to-lead-quest-to-end-malaria) conducting chemical screens against the liver stage of the malaria parasite and affiliated follow-up studies.
-
-![news photo](https://ucsdnews.ucsd.edu/news_uploads/2018_12_06_winzler_researchteam_UCSDHealth.jpg)
-
-From left to right: Matthew Abraham, Ph.D.; Madeline Luth; Sabine Ottilie, Ph.D.; Elizabeth Winzeler, Ph.D.
-
-(Image Credit: [UCSD press release](https://ucsdnews.ucsd.edu/pressrelease/half_a_million_tests_and_many_later_new_buzz_about_a_malaria_prevention_drug))
 
 #### The Malaria Drug Accelerator (MalDA) Consortium
 [MalDA](https://winzeler.ucsd.edu/malda/) is a target-guided discovery platform and collaboration between academic, non-profit, and pharmaceutical groups funded by the [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org), centered right here at UCSD. I manage all sequencing and whole genome analysis for the consortium and participate in the Target Identification and Validation Focus Group. Below is our MalDA group photo which was taken at our annual all-member Palm Springs meeting at Omni Rancho Las Palmas in 2019.
@@ -66,6 +57,7 @@ In Winter 2018, I was a Teaching Assistant for [Deborah Yelon](https://www-biolo
 * Admissions Committee Member for 2018-2019 BMS Program Recruitment
 * Student Organizer of the 2019 [BMS Program Annual Retreat](https://biomedsci.ucsd.edu/calendar/bms-retreat.html), featuring keynote speaker [Lior Pachter](https://pachterlab.github.io) from CalTech
 * Student Organizer of the 2018-2019 BMS Student-Invited Speaker Seminar, featuring [Clodagh O'Shea](https://www.salk.edu/scientist/clodagh-oshea/) from Salk Institute
+* Student Organizer for the [2021 UCSD Genetics Program Retreat](https://genetics.ucsd.edu/annual-retreat/retreat-2021.html)
 
 ## Undergraduate Education and Research
 I obtained my B.S. in Microbiology from UC Riverside in 2016. As an undergraduate research assistant in the lab of [David Crowley](https://profiles.ucr.edu/app/home/profile/crowley), I studied how properties of biochar influence survival and propagation of plant-growth-promoting rhizobacteria and potential applications to agriculture. Following this work, I joined the lab of [Sharon L. Walker](https://drexel.edu/engineering/about/faculty-staff/W/walker-sharon/), where I investigated the attachment and detachment kinetics of *E. coli O157:H7* on leafy green vegetables, commonly a source of foodborne illness. In 2015, I was awarded the $5,000 [UCR Chancellor's Research Fellowship](https://se.ucr.edu/research/chancellor_fellowship) to complete my [University Honors](https://honors.ucr.edu) thesis titled "Effect of Material Properties on Bacterial Attachment to Thin Film Photocatalytic Titanium Dioxide" under the mentorship of Dr. Walker.
@@ -78,11 +70,7 @@ I obtained my B.S. in Microbiology from UC Riverside in 2016. As an undergraduat
 * Member of UCR [Delta Sify](http://deltasify.weebly.com) (Change in Scientific Importance for Youth) Club (2014-2016)
 
 ## Consulting Experience
-In Fall 2020, I joined the San Diego Chapter of [Seed Consulting Group](https://seedcg.org) as a consultant. Seed is a 501(c)3 nonprofit organization that provides pro-bono consulting to influential organizations pioneering a healthier and more environmentally sustainable California.
+In Fall 2020, I joined the San Diego Chapter of [Seed Consulting Group](https://seedcg.org) as a consultant. In Spring 2021, I participated in another project cycle where I was the Project Manager with a team of 5 consultants. As of Winter 2021, I function as a Co-VP of Strategy & Operations for the San Diego Chapeter. Seed is a 501(c)3 nonprofit organization that provides pro-bono consulting to influential organizations pioneering a healthier and more environmentally sustainable California.
 
 ![SeedCG](https://seedcg.org/wp-content/uploads/2020/08/Final_Logo_V2-6.png)
-
-
-# Full Curriculum Vitae
-Coming Soon
 
