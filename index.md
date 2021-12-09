@@ -28,11 +28,11 @@ My name is Madeline Luth and I am an early-career biomedical researcher and bioi
 ## Graduate Education and Research
 
 ### UCSD BMS Program and Graduate-Level Research
-I am currently a Ph.D. student in the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego and am completing my dissertation in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/). Our primary research focus in the Winzeler Lab is the identification of chemotherapeutics and chemoprevention strategies for malaria, but we also develop and collaborate on projects exploring other infectious diseases and cancer.
+I am currently a Ph.D. candidate in the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego and am completing my dissertation in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/). Our primary research focus in the Winzeler Lab is the identification of chemotherapeutics and chemoprevention strategies for malaria, but we also develop and collaborate on projects exploring other infectious diseases and cancer.
 
 ![EAW lab logo](http://winzeler.ucsd.edu/wp-content/uploads/2016/09/winzeler-logo-3-001.png)
 
-#### My Current Research Areas and Interests in the Winzeler Lab
+#### My Current Research Areas and Interests
 * Drug discovery and development in parasites and other pathogens
 * Using experimental evolution to model drug resistance acquisition
 * Analysis of large-scale omics datasets to understand the mechanisms of drug resistance
@@ -70,7 +70,7 @@ I obtained my B.S. in Microbiology from UC Riverside in 2016. As an undergraduat
 * Member of UCR [Delta Sify](http://deltasify.weebly.com) (Change in Scientific Importance for Youth) Club (2014-2016)
 
 ## Consulting Experience
-In Fall 2020, I joined the San Diego Chapter of [Seed Consulting Group](https://seedcg.org) as a consultant. In Spring 2021, I participated in another project cycle where I was the Project Manager with a team of 5 consultants. As of Winter 2021, I function as a Co-VP of Strategy & Operations for the San Diego Chapeter. Seed is a 501(c)3 nonprofit organization that provides pro-bono consulting to influential organizations pioneering a healthier and more environmentally sustainable California.
+In Fall 2020, I joined the San Diego Chapter of [Seed Consulting Group](https://seedcg.org) as a consultant. Seed is a 501(c)3 nonprofit organization that provides pro-bono consulting to influential organizations pioneering a healthier and more environmentally sustainable California. In Spring 2021, I participated in a second project cycle as a Project Manager with a team of 5 consultants. As of Winter 2021, I function as a Co-VP of Strategy & Operations for the San Diego Chapter. 
 
 ![SeedCG](https://seedcg.org/wp-content/uploads/2020/08/Final_Logo_V2-6.png)
 
