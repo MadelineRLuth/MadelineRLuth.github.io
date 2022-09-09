@@ -28,7 +28,7 @@ My name is Madeline Luth and I am an early-career biomedical researcher and bioi
 ## Graduate Education and Research
 
 ### UCSD BMS Program and Graduate-Level Research
-I am currently a Ph.D. candidate in the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego and am completing my dissertation in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/). Our primary research focus in the Winzeler Lab is the identification of chemotherapeutics and chemoprevention strategies for malaria, but we also develop and collaborate on projects exploring other infectious diseases and cancer.
+I graduated with a Ph.D. from the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego and am completed my dissertation in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/). My primary research focus in the Winzeler Lab was the identification of chemotherapeutics and chemoprevention strategies for malaria, but I also developed and collaborated on projects exploring other infectious diseases and cancer.
 
 ![EAW lab logo](http://winzeler.ucsd.edu/wp-content/uploads/2016/09/winzeler-logo-3-001.png)
 
@@ -43,11 +43,8 @@ I am currently a Ph.D. candidate in the [Biomedical Sciences (BMS) Graduate Prog
 
 ![group photo](https://pbs.twimg.com/profile_banners/1198263575577534466/1575651873/600x200)
 
-#### Social Media Management
-I run the Twitter handles for both the [Winzeler Lab](https://twitter.com/WinzelerLabUCSD) and [MalDA](https://twitter.com/MalariaTargetID).
-
 #### Funding
-My graduate work is partially supported by a Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences ([T32 GM008666](https://grantome.com/grant/NIH/T32-GM008666-16)) as a fellow in the [UCSD Genetics Training Program](http://genetics.ucsd.edu).
+My graduate work was partially supported by a Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences ([T32 GM008666](https://grantome.com/grant/NIH/T32-GM008666-16)) as a fellow in the [UCSD Genetics Training Program](http://genetics.ucsd.edu).
 
 #### Teaching Experience
 In Winter 2018, I was a Teaching Assistant for [Deborah Yelon](https://www-biology.ucsd.edu/research/faculty/dyelon)'s section of BICD100, an introduction to genetics. I lead 2 weekly discussion sections focused heavily on problem-solving, managed grading, and organized review sessions for midterm and final exams.
@@ -70,7 +67,7 @@ I obtained my B.S. in Microbiology from UC Riverside in 2016. As an undergraduat
 * Member of UCR [Delta Sify](http://deltasify.weebly.com) (Change in Scientific Importance for Youth) Club (2014-2016)
 
 ## Consulting Experience
-In Fall 2020, I joined the San Diego Chapter of [Seed Consulting Group](https://seedcg.org) as a consultant. Seed is a 501(c)3 nonprofit organization that provides pro-bono consulting to influential organizations pioneering a healthier and more environmentally sustainable California. In Spring 2021, I participated in a second project cycle as a Project Manager with a team of 5 consultants. In Winter 2021, I accepted a position on the San Diego Chapter Leadership Team as a Co-VP of Strategy & Operations.
+In Fall 2020, I joined the San Diego Chapter of [Seed Consulting Group](https://seedcg.org) as a consultant. Seed is a 501(c)3 nonprofit organization that provides pro-bono consulting to influential organizations pioneering a healthier and more environmentally sustainable California. In Spring 2021, I participated in a second project cycle as a Project Manager with a team of 5 consultants. In Winter 2021, I accepted a position on the San Diego Chapter Leadership Team as a Co-VP of Strategy & Operations, where I develop high-level organizational strategy and support project cycle operations.
 
 ![SeedCG](https://seedcg.org/wp-content/uploads/2020/08/Final_Logo_V2-6.png)
 
