@@ -28,11 +28,11 @@ My name is Madeline Luth and I am an early-career biomedical researcher and bioi
 ## Graduate Education and Research
 
 ### UCSD BMS Program and Graduate-Level Research
-I graduated with a Ph.D. from the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego and am completed my dissertation in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/). My primary research focus in the Winzeler Lab was the identification of chemotherapeutics and chemoprevention strategies for malaria, but I also developed and collaborated on projects exploring other infectious diseases and cancer.
+I graduated with a Ph.D. from the [Biomedical Sciences (BMS) Graduate Program](https://biomedsci.ucsd.edu) at UC San Diego in July 2022, completing my dissertation in the lab of [Elizabeth Winzeler](https://winzeler.ucsd.edu/). My primary research focus in the Winzeler Lab was the identification of chemotherapeutics and chemoprevention strategies for malaria, but I also developed and collaborated on projects exploring other infectious diseases and cancer.
 
 ![EAW lab logo](http://winzeler.ucsd.edu/wp-content/uploads/2016/09/winzeler-logo-3-001.png)
 
-#### My Current Research Areas and Interests
+#### Research Areas and Expertise
 * Drug discovery and development in parasites and other pathogens
 * Using experimental evolution to model drug resistance acquisition
 * Analysis of large-scale omics datasets to understand the mechanisms of drug resistance
