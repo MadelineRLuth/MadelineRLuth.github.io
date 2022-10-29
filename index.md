@@ -5,13 +5,9 @@ Most of my work involves identifying drug targets and resistance mechanisms in m
 
 2. [Whole Genome Analysis of *Saccharomyces cerevisiae*](https://github.com/MadelineRLuth/yeast_analyses)
 
-3. Whole Genome Analysis of *Toxoplasma gondii* (Coming Soon!)
+3. [Omics Pipe and General WGS Pipeline Framework](https://github.com/MadelineRLuth/Omics_Pipe)
 
-4. [Omics Pipe and General WGS Pipeline Framework](https://github.com/MadelineRLuth/Omics_Pipe)
-
-5. Copy Number Variant Detection Pipeline (Coming Soon!)
-
-6. [Coursework from BGGN213: Foundation of Bioinformatics](https://madelinerluth.github.io/bggn213/)
+4. [Coursework from BGGN213: Foundation of Bioinformatics](https://madelinerluth.github.io/bggn213/)
 
 
 
